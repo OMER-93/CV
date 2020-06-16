@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>ÖMER ARAKI</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tbody>
+      <tr>
+        <td>  <img src="https://www.facebook.com/photo?fbid=2649202761990022&set=a.1382334915343486" alt="omer profil pictur"></td>
+        <td><h1>ÖMER ARAKI </h1>
+        <p><em><b>Electrical Elektronic engineer</b></em></p>
+        <p>I am turkish , i study <a href="https://www.engineering.com/">engineering</a> in karabuk university</p></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <hr>
+  <h3>skills</h3>
+  <ul>
+    <li>autocad</li>
+    <li>scada</li>
+    <li>classic control</li>
+  </ul>
+  <hr>
+  <h3>job experience</h3>
+  <table cellspacing="20">
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>Works</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <td>2007 to 2010</td>
+        <td>student at ibn rushd high school</td>
+      </tr>
+      <tr>
+        <td>2010</td>
+        <td>student in 10th class</td>
+      </tr>
+    </tbody>
+    <tfoot>
+
+    </tfoot>
+  </table>
+  <hr>
+<h3>programing skills</h3>
+<table  cellspacing="20">
+  <tbody>
+    <tr>
+      <td>sacada</td>
+    <td>⭐⭐⭐☆☆</td>
+    <td>c++</td>
+    <td>⭐⭐☆☆☆</td>
+    </tr>
+    <tr>
+      <td>c</td>
+      <td>⭐⭐☆☆☆</td>
+      <td>html</td>
+      <td>⭐⭐⭐⭐☆</td>
+    </tr>
+  </tbody>
+</table>
+  <hr>
+  my hobies
+  <br>
+ <b>contacts</b>
+
+</body>
+
+</html>
